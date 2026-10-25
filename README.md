@@ -779,6 +779,7 @@ A curated list of awesome LLM frameworks, libraries and software.
 * [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) - Let Skills Evolve Collectively with Agentic Evolver
 * [sdyckjq-lab/llm-wiki-skill](https://github.com/sdyckjq-lab/llm-wiki-skill) - 基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！
 * [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
+* [vostride/agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web, Android, and iOS tests, with advanced memidex memory and coding-agent skills.
 
 ### Memory and Context
 
